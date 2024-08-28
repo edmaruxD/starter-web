@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Edmar Evangelista -- eedmar42@yahoo.com.ph -- @edmar
 
 # THANKS
 
